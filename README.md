@@ -1,4 +1,4 @@
-# Unified Multi-Fidelity Latin Hypercube Sampler（多保真拉丁超立方采样器）— README（中文）
+# Unified Multi-Fidelity Latin Hypercube Sampler
 
 > 一个用于**单/多保真**（Nested/Non-Nested）实验设计的轻量采样工具，基于 `SciPy` 的 LHS、`scikit-learn-extra` 的 KMedoids 聚类与若干几何启发式策略，支持可视化与自定义边界映射。
 
